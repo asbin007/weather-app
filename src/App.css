@@ -1,4 +1,4 @@
-.weatherBg{
+#weatherBg{
   background: url("./pic/1.jpeg");
   height: 50vh;
   display: flex;
@@ -9,19 +9,19 @@
   color: #fff;
   margin: auto;
 }
-.weatherResultBox{
+#weatherResultBox{
   margin: auto;
   width: 300px;
   height: 300px;
 }
-.weatherIcon{
+#weatherIcon{
   height: 100px;
   margin-top: 2rem;
   width: 100px;
 }
-.weatherCity{
+#weatherCity{
   font-size: 35px;
 }
-.weatherTemp{
+#weatherTemp{
   font-size: 60px;
 }
